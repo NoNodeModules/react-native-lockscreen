@@ -1,0 +1,6 @@
+module Pods_lockscreen_lockscreenTests {
+  umbrella header "Pods-lockscreen-lockscreenTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

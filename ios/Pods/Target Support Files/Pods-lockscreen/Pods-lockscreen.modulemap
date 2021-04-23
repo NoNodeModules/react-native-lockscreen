@@ -1,0 +1,6 @@
+module Pods_lockscreen {
+  umbrella header "Pods-lockscreen-umbrella.h"
+
+  export *
+  module * { export * }
+}
